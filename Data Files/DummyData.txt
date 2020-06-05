@@ -1,0 +1,5 @@
+1,"Aiden Meikle","AMeikle","JellyBaby",15,3,120,340,#FALSE#,#FALSE#,"Small","Green"
+2,"Corrine Underwood", "CUnderwood", "CountryGal", 9,2,250,650,#FALSE#,#TRUE#,"Small","Red"
+3,"Deidre Parton","DParton","NineToFive",21,6,600,900,#TRUE#,#TRUE#,"Large","Red"
+4,"Morris Loaf","MLoaf","BatFromHell",13,5,150,200,#TRUE#,#FALSE#,"Large","Green"
+5,"Joanne Kramer","JKramer","RainQueen",4,2,80,400,#FALSE#,#FALSE#,"Small","Red"

@@ -1,0 +1,9 @@
+frmLogin = 52, 52, 878, 553, , 52, 52, 878, 553, C
+Records = 26, 26, 852, 527, 
+frmRegister = 78, 78, 904, 579, , 78, 78, 904, 579, C
+frmMainMenu = 0, 0, 0, 0, C, 104, 104, 930, 605, C
+frmLeaderboard = 0, 0, 0, 0, C, 130, 130, 956, 631, C
+frmHelp = 0, 0, 0, 0, C, 156, 156, 982, 657, C
+frmSettings = 0, 0, 0, 0, C, 182, 182, 1008, 683, C
+frmBlackjack = 130, 130, 956, 631, Z, 26, 26, 852, 527, C
+SubRoutines = 0, 0, 0, 0, C
